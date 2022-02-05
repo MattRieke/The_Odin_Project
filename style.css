@@ -13,16 +13,31 @@
 .recipe-index{
     text-align: center;
     list-style-type:none;
-    color: #f5f5f5;
     padding-left: 0;
     font-size: 18px;
 }
 
 .recipe-items{
     background-color: #444444;
-    border-radius: 25px;
+    border-radius: 5px;
     padding-left: 5px;
     padding-right: 5px;
+}
+
+.pic-disc{
+    color: #303030;
+    text-align:center;
+}
+
+.body-text{
+    color:#b9b9b9;
+}
+
+.food-pics{
+    margin: auto;
+    display: block;
+    width: 500px;
+    height: auto;
 }
 
 a:link {
