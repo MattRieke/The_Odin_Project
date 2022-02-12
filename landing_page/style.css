@@ -14,7 +14,7 @@ body{
     display: flex;
     align-items:center;
     justify-content:space-between;
-    padding: 0px 50px 0px 50px;
+    padding: 0px 100px 0px 100px;
 }
 
 a{
@@ -30,6 +30,8 @@ a{
 
 ul{
     list-style: none;
+    padding: 0;
+
 }
 
 .header-links{
