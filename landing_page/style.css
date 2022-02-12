@@ -26,9 +26,10 @@ a{
 .site-logo{
     text-decoration: none;
     font-size: 36px;
-    width: 173px;
+    width: 181px;
     flex-shrink: 0;
     padding: 0 100px 0 0;
+    font-weight: 700;
 }
 
 ul{
