@@ -14,7 +14,6 @@ body{
     display: flex;
     align-items:center;
     justify-content:space-between;
-    padding: 0px 100px 0px 100px;
 }
 
 a{
@@ -36,7 +35,7 @@ a:hover{
     font-size: 36px;
     width: 181px;
     flex-shrink: 0;
-    padding: 0 100px 0 0;
+    padding: 0 0 0 100px;
     font-weight: 700;
 }
 
@@ -51,6 +50,7 @@ ul{
     gap: 20px;
     width: 169px;
     flex-shrink: 0;
+    padding: 0 100px 0 100px;
 }
 
 .content{
