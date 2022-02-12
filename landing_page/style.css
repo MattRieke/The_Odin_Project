@@ -1,5 +1,7 @@
 .header{
-
+    width: 1200px;
+    height: 72px;
+    background-color: #5865f2;
 }
 
 .content{
@@ -7,5 +9,5 @@
 }
 
 .footer{
-    
+
 }
