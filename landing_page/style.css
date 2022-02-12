@@ -23,6 +23,14 @@ a{
 
 }
 
+a.logo-link:hover{
+    color: #ffffff;
+}
+
+a:hover{
+    color: #ff0000;
+}
+
 .site-logo{
     text-decoration: none;
     font-size: 36px;
