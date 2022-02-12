@@ -19,6 +19,11 @@ ul{
     list-style: none;
 }
 
+.header-links{
+    display: flex;
+    gap: 20px;
+}
+
 .content{
 
 }
