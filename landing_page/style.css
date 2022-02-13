@@ -127,7 +127,8 @@ ul{
 .cont-2-items{
     display: flex;
     justify-content: center;
-    gap: 50px;
+    gap: 200px;
+    padding: 16px;
 }
 
 .cont-2-item{
