@@ -51,9 +51,10 @@ ul{
 .header-links{
     display: flex;
     gap: 20px;
-    width: 169px;
+    width: 179px;
     flex-shrink: 0;
     padding: 0 150px 0 150px;
+    font-weight: 700;
 }
 
 .content{
