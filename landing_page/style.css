@@ -125,11 +125,14 @@ ul{
 }
 
 .cont-2-items{
-
+    display: flex;
+    justify-content: center;
+    gap: 50px;
 }
 
 .cont-2-item{
-
+    display: flex;
+    flex-direction: column;
 }
 
 .cont-2-item-image{
