@@ -139,7 +139,7 @@ ul{
 .cont-2-item-image{
     width: 100px;
     height: 100px;
-    border-radius 12px;
+    border-radius: 12px;
     border-width: 2px;
     border-color: #5865f2;
 }
