@@ -35,7 +35,7 @@ a:hover{
 
 .site-logo{
     text-decoration: none;
-    font-size: 36px;
+    font-size: 24px;
     width: 181px;
     flex-shrink: 0;
     padding: 0 0 0 150px;
@@ -69,7 +69,38 @@ ul{
     width: 1200px;
     background-color: #070e5c;
     padding: 16px 0 0 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
 
+}
+
+.left-1{
+    padding: 0 0 0 150px;
+    height: 145px;
+    width: 500px;
+    margin: 0;
+}
+
+.left-1-main{
+    font-size: 44px;
+    font-weight: 700;
+    width: inherit;
+}
+
+.left-1-sub{
+    width: inherit;
+}
+
+.left-1-but{
+    background-color: #5865f2;
+    border-radius: 10%;
+    
+}
+
+.right-1{
+    padding: 0 150px 0 0;
 }
 
 .cont-2{
