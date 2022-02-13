@@ -114,6 +114,25 @@ ul{
     width: 1200px;
     background-color: #72767d;
     padding: 16px 0 0 0;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.cont-2-items{
+
+}
+
+.cont-2-item{
+
+}
+
+.cont-2-item-image{
+
+}
+
+.cont-2-item-text{
+
 }
 
 .cont-3{
