@@ -110,13 +110,14 @@ ul{
 }
 
 .cont-2{
-    height:234px;
+    height:334px;
     width: 1200px;
     background-color: #72767d;
     padding: 16px 0 0 0;
     display: flex;
     align-items: center;
     flex-direction: column;
+    gap: 32px;
 }
 
 .cont-2-header{
@@ -127,7 +128,7 @@ ul{
 .cont-2-items{
     display: flex;
     justify-content: center;
-    gap: 200px;
+    gap: 225px;
     padding: 16px;
 }
 
@@ -137,15 +138,17 @@ ul{
 }
 
 .cont-2-item-image{
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     border-radius: 12px;
     border-width: 2px;
     border-color: #5865f2;
 }
 
 .cont-2-item-text{
-
+    width: 150px;
+    padding: 16px 0 0 0;
+    text-align: center;
 }
 
 .cont-3{
